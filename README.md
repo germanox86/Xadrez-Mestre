@@ -1,29 +1,22 @@
-# Brainwave Landing Page
+Xadrez Mestre – Landing page moderna e responsiva para um curso completo de xadrez online.
+Atraia alunos de todos os níveis com design elegante, conteúdo persuasivo e conversão otimizada.
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles.
+Tecnologias Utilizadas
 
-## ⚙️ Tech Stack
-
-- Vite
-- React.js
-- Tailwind CSS
-
-## 🔋 Features
-
-**Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
-
-**Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
-
-**Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
-
-**Latest UI Trends**: Incorporates modern design elements such as bento grids.
-
-**Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
-
-**Responsive**: Ensures seamless functionality and aesthetics across all devices
-
-and many more, including code architecture and reusability
+React – Componentes reutilizáveis e interatividade fluida
+Vite – Build ultra-rápida e hot reload instantâneo
+Tailwind CSS – Estilização moderna, responsiva e sem CSS customizado
 
 
-## 📄 License
-> This project is licensed under the MIT License.
+Funcionalidades da Landing Page
+
+Hero impactante com título, subtítulo e CTA claro
+Seção de Benefícios Cognitivos (com ícones e textos curtos)
+Planos de Curso (Básico e Premium) com preços e destaques
+FAQ interativa (acordeão com respostas rápidas)
+Tópicos do Curso (Aberturas, Táticas, Meio-jogo, Finais)
+Depoimentos (em breve)
+Rodapé com links úteis e contato
+Totalmente responsiva (mobile, tablet, desktop)
+
+Boilerplate utlizado: https://github.com/StarDust130/Brainwave
